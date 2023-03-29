@@ -28,7 +28,7 @@ The program calculates the total profit or loss for all transactions of the same
 ## How to Run
 
 1. Save your transaction data in a text file, e.g., `crypto_tax.txt`.
-2. Run the Python script, passing the name of the text file as a command-line argument:
+2. Run the Python script with a command-line argument:
 
 ```bash
 python crypto_calculator.py
